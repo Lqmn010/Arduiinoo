@@ -1,3 +1,7 @@
+<div align= "center">
+Project Coderen
+</div>
+
 <div align="center">
   <p>
       <img width="20%" src="/arduino-icon.svg">
@@ -21,6 +25,7 @@ Loukmane en Olivier
 <br>
 
 ## Hoe de sensor iemand detecteert.
+
 <br>
 Het basisprincipe achter de werking van de HC-SR04 sensor is om de tijd te noteren genomen door de sensor om ultrasone stralen te verzenden en de ultrasone stralen te ontvangen na <br>
 het raken van de oppervlakte. Vervolgens wordt de afstand verder berekend.
